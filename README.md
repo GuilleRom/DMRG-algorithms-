@@ -1,2 +1,2 @@
-# DMRG-algorithms-
+# DMRG-algorithms
 In this repository 
