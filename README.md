@@ -1,2 +1,2 @@
 # DMRG algorithms
-The purpose of this repository is to provide newcomers with an introduction to the exciting field of numerical simulations of many-body quantum systems. 
+The purpose of this repository is to provide newcomers with an introduction to the exciting field of numerical simulations of many-body quantum systems. This repository contains detailed numerical implementations of the static density matrix renormalization group (DMRG) and the adaptive time-dependent DRMG.
