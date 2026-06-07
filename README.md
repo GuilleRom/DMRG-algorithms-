@@ -1,2 +1,2 @@
-# Density matrix renormalization group (DMRG) algorithms
-The purpose of this repository is to provide newcomers with an introduction to the exciting field of numerical simulations of many-body quantum systems. This repository contains detailed numerical implementations of the static density matrix renormalization group (DMRG) and the adaptive time-dependent DRMG; both applied to spin-1/2 lattices and strongly correlated boson systems. 
+# Density matrix renormalization group (DMRG) and Tensor networks-based algorithms
+The purpose of this repository is to provide newcomers with an introduction to the exciting field of numerical simulations of many-body quantum systems. This repository contains detailed numerical implementations of the static density matrix renormalization group (DMRG) and the time-evolving block decimation (TEBD) algorithm; both applied to spin-1/2 lattices, strongly correlated bosons, and light-matter systems. 
