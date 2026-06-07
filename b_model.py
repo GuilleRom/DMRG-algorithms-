@@ -1,6 +1,6 @@
 """Implementing the Jaynes-Cummings-Hubbard model."""
 # Copyright 2018 TeNPy Developers
-# Copyright 2019 Guillermo Romero, Universidad de Santiago de Chile
+# Copyright 2026 Guillermo Romero, Universidad de Santiago de Chile
 # guillermo.romero@usach.cl
 import numpy as np
 import scipy
