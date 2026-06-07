@@ -1,4 +1,4 @@
-# [Your Project Name]
+# [Density-matrix and tensor network-based algorithms for one-dimensional lattices]
 
 [One- or two-sentence description of what your code does.]
 
