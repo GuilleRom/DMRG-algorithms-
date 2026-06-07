@@ -1,6 +1,7 @@
-"""Toy code implementing a matrix product state."""
+
 # Copyright 2018 TeNPy Developers
 # Copyright 2026 Guillermo Romero, Universidad de Santiago de Chile
+# guillermo.romero@usach.cl
 import numpy as np
 from numpy import random
 from scipy.linalg import svd
